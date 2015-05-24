@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPlatformCms", "WebPlatformCms\WebPlatformCms.csproj", "{2D5694BB-98D4-4C74-9DD8-A24A5538D692}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPlatformCms.DAL", "WebPlatformCms.DAL\WebPlatformCms.DAL.csproj", "{0F38E586-EA54-46AA-86A4-719172A84CD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2D5694BB-98D4-4C74-9DD8-A24A5538D692}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D5694BB-98D4-4C74-9DD8-A24A5538D692}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D5694BB-98D4-4C74-9DD8-A24A5538D692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F38E586-EA54-46AA-86A4-719172A84CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F38E586-EA54-46AA-86A4-719172A84CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F38E586-EA54-46AA-86A4-719172A84CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F38E586-EA54-46AA-86A4-719172A84CD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

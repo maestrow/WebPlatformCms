@@ -18,7 +18,7 @@ namespace WebPlatformCms
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                       bower + "bootstrap/dist/js/bootstrap.js"));
 
-            bundles.Add(new StyleBundle("~/Content/css").Include(
+            bundles.Add(new StyleBundle("~/bundles/css").Include(
                 vendor + "jqwidgets/styles/jqx.base.css",
                 vendor + "jqwidgets/styles/jqx.arctic.css",
                 vendor + "jqwidgets/styles/jqx.black.css",
